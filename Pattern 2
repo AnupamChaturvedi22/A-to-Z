@@ -23,3 +23,6 @@ class Solution {
 
     }
 }
+
+//time : O(n²)
+//space :O(1)
